@@ -28,4 +28,5 @@ Tailwind CSS / Custom CSS – Styling
 CoinGecko API – Crypto Data Provider
 
 Video Link -- https://drive.google.com/file/d/1Ca7u1e97tZV6mxA3REKYJRjsaWAqcOgD/view?usp=drive_link
+
 Let me know about your opinion. I am waiting for your response...
