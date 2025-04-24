@@ -1,12 +1,30 @@
-# React + Vite
+💰 Crypto Tracker App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive Cryptocurrency Tracker app built with React, Redux, and Axios. This app fetches real-time crypto data from the CoinGecko API and displays a clean, interactive interface including live price updates, percentage changes, market caps, and graphical price trends.
 
-Currently, two official plugins are available:
+🧠 Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a web application that tracks the latest performance of popular cryptocurrencies. It allows users to:
+View detailed price data of top cryptocurrencies.
+Monitor market cap, volume, and price changes in real time.
+Analyze each coin's trend using mini line graphs.
+Enjoy a responsive and clean user interface built with modern technologies.
 
-## Expanding the ESLint configuration
+✨ Key Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔄 Real-Time Data Fetching from CoinGecko API
+📊 Graphical Price Trends using historical data
+📈 Price Change Percentages for 1h, 24h, and 7d
+🧾 Clean Table Layout for quick comparison
+🟢 Color indicators for gain/loss
+⏱️ Auto-refreshing every 30 seconds
+
+📌 Technologies Used
+
+React – Frontend Framework
+Redux Toolkit – State Management
+Axios – API Calls
+Tailwind CSS / Custom CSS – Styling
+CoinGecko API – Crypto Data Provider
+
+Let me know about your opinion. I am waiting for your response...
