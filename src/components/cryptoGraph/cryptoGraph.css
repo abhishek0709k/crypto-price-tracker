@@ -1,0 +1,27 @@
+.crypto-graph {
+    width: 100%;
+    max-width: 800px; /* You can adjust the width of the graph */
+    margin: 0 auto; /* Center the graph horizontally */
+    padding: 20px;
+    background-color: #f4f4f9; /* Light background to make the graph stand out */
+    border-radius: 8px; /* Rounded corners for a smooth appearance */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow around the graph */
+  }
+  
+  .crypto-graph canvas {
+    width: 100% !important; /* Ensure the graph takes full width */
+    height: 400px; /* Adjust the height to your preference */
+  }
+  
+  /* Optionally, you can add responsiveness */
+  @media (max-width: 768px) {
+    .crypto-graph {
+      padding: 15px;
+      max-width: 100%; /* Make the graph responsive */
+    }
+  
+    .crypto-graph h3 {
+      font-size: 1.2rem;
+    }
+  }
+  
